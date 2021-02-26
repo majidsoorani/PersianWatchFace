@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.2" package="org.example.persianweatherwatch" version="1.0.0">
+    <author email="soorani@gmail.com" href="https://github.com/majidsoorani/">Majid Soorani</author>
+    <profile name="wearable"/>
+    <watch-application ambient-support="true" appid="org.example.persianweatherwatch" exec="persianweatherwatch">
+        <label>Persian Weather Clock</label>
+        <icon>persianweatherwatch.png</icon>
+    </watch-application>
+</manifest>
